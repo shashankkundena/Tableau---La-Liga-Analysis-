@@ -11,7 +11,7 @@ This dashboard highlights the top 5 performing players in various categories suc
 **Dashboard 3: Player Stats**
 The Player Stats dashboard allows users to explore the individual performance metrics of each player in the dataset. Users can select a player from the dropdown menu, and the visualizations will dynamically update to display the selected player's statistics. Visualizations include all the attacking stats,defending stats, and passing stats 
 
-Tableau Dashboard URL - [https://public.tableau.com/views/LaLiga20-21Analysis/TeamAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link](url)
+Tableau Dashboard URL - [[https://public.tableau.com/views/LaLiga20-21Analysis/TeamAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link](url)](https://public.tableau.com/views/LaLiga20-21Analysis/TeamAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 **Dataset **- Found the Dataset in Kaggle 
 Dataset URL -[ https://www.kaggle.com/datasets/thegreatcoder/laliga-player-stats](url)
